@@ -665,6 +665,10 @@ video {
   height: 100%;
 }
 
+.w-2\/3 {
+  width: 66.666667%;
+}
+
 .w-4 {
   width: 1rem;
 }
@@ -819,11 +823,6 @@ video {
 
 .p-5 {
   padding: 1.25rem;
-}
-
-.px-2 {
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
 }
 
 .px-28 {
